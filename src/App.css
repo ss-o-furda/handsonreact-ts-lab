@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+header {
+  height: 5.1875rem;
+}
+
+a.button.active {
+  border: 1px solid var(--fore-color);
+}
